@@ -1,0 +1,23 @@
+hello vishal
+PHP is open source language 
+PHP is the backend language
+echo is use to print its like print in PHP
+Can read database using PHP
+can Write the logic using PHP
+It is dynamical language
+it is not a case sensitive language
+
+ Operator :
+           Arithmatic Operator
+           Assignment Operator
+           Comparision Operator
+           increament/decreament Operator
+           Logical Operator
+
+Datatype :
+  1. String
+  2. integer
+  3. Boolean
+  4. float
+  5. array
+  6. object

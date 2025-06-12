@@ -1,0 +1,12 @@
+Queue = []
+Queue.append('a')
+Queue.append('b')
+Queue.append('c')
+print("Initial value")
+print(Queue)
+print("\nElement popped from Queue")
+print(Queue.pop(0))
+print(Queue.pop(0))
+print(Queue.pop(0))
+print("\nQueue after element are popped:")
+print(Queue)
